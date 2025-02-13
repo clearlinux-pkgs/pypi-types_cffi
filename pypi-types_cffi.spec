@@ -7,7 +7,7 @@
 #
 Name     : pypi-types_cffi
 Version  : 1.16.0.20241221
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/5e/00/ecd613293b6c41081b4e5c33bc42ba22a839c493bf8b6ee9480ce3b7a4e8/types_cffi-1.16.0.20241221.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5e/00/ecd613293b6c41081b4e5c33bc42ba22a839c493bf8b6ee9480ce3b7a4e8/types_cffi-1.16.0.20241221.tar.gz
 Summary  : Typing stubs for cffi
