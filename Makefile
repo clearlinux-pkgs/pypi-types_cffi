@@ -1,5 +1,5 @@
 PKG_NAME := pypi-types_cffi
-URL = https://files.pythonhosted.org/packages/5e/00/ecd613293b6c41081b4e5c33bc42ba22a839c493bf8b6ee9480ce3b7a4e8/types_cffi-1.16.0.20241221.tar.gz
+URL = https://files.pythonhosted.org/packages/f7/ad/ff634c50272e7d2a4063931f9c80c2d6e1a936e361bcc8531889efe540ce/types_cffi-1.17.0.20250319.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
